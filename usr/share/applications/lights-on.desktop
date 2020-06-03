@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Lights-On Panel Indicator
+Name[tr]=Lights-On Panel Göstergesi
+Comment=Panel indicator for Lights-On
+Comment[tr]=Lights-On için panel göstergesi
+Icon=preferences-desktop-screensaver-symbolic
+Exec=python /opt/lights-on/lights-on-tray.py

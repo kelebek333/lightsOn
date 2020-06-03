@@ -1,0 +1,12 @@
+#!/bin/bash
+
+TEXTDOMAINDIR=/opt/lights-on/locale
+TEXTDOMAIN=lights-on
+
+if pgrep -x lightsOn.sh > /dev/null; then
+pkill lightsOn.sh
+notify-send "Lights On" $"Stopped"
+else
+notify-send "Lights On" $"Not already running"
+fi
+exit 0

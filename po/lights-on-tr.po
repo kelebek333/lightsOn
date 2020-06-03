@@ -1,0 +1,42 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: lights-on\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-06-03 13:47+0300\n"
+"PO-Revision-Date: 2020-06-03 13:53+0300\n"
+"Last-Translator: Gökhan Gökkaya <gokhanlnx@gmail.com>\n"
+"Language-Team: Turkish\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: tr\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.0.6\n"
+
+msgid "Already running"
+msgstr "Zaten çalışıyor"
+
+msgid "Started"
+msgstr "Başlatıldı"
+
+msgid "Stopped"
+msgstr "Durduruldu"
+
+msgid "Not already running"
+msgstr "Zaten çalışmıyor"
+
+#: opt/lights-on/lights-on-tray.py:20
+msgid "Start"
+msgstr "Başlat"
+
+#: opt/lights-on/lights-on-tray.py:25
+msgid "Stop"
+msgstr "Durdur"
+
+#: opt/lights-on/lights-on-tray.py:29
+msgid "Exit"
+msgstr "Çıkış"
+
+#: opt/lights-on/lights-on-tray.py:33
+msgid "Stop and Exit"
+msgstr "Durdur ve Çık"

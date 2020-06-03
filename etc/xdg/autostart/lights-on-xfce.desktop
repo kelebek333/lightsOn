@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Lights-On
+Comment=Disable power management on full screen media
+Comment[tr]=Tam ekran ortam oynatımında güç yönetimini pasifleştirir
+Icon=preferences-desktop-screensaver-symbolic
+Exec=/bin/bash -c /opt/lights-on/lightsOn.sh
+OnlyShowIn=XFCE;

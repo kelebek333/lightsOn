@@ -1,0 +1,23 @@
+lights-on (1.0.3~lmtr) bionic; urgency=medium
+
+  * Add indicator applet
+
+ -- Gökhan Gökkaya <wirelessanten@gmail.com>  Mon, 01 Jun 2020 02:53:22 +0300
+
+lights-on (1.0.2~lmtr) bionic; urgency=medium
+
+  * Disable debug mode
+
+ -- Gökhan Gökkaya <wirelessanten@gmail.com>  Mon, 01 Jun 2020 02:53:22 +0300
+
+lights-on (1.0.1~lmtr) bionic; urgency=medium
+
+  * Added Celluloid support
+
+ -- Gökhan Gökkaya <wirelessanten@gmail.com>  Sat, 30 May 2020 22:04:24 +0300
+
+lights-on (1.0.0~lmtr) bionic; urgency=medium
+
+  * Initial version (Added Xfce4-screensaver support)
+
+ -- Gökhan Gökkaya <wirelessanten@gmail.com>  Sat, 30 May 2020 16:35:15 +0300

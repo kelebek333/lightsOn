@@ -1,0 +1,11 @@
+Source: lights-on
+Section: misc
+Priority: optional
+Maintainer: Gökhan Gökkaya <wirelessaten@gmail.com>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.5
+
+Package: lights-on
+Architecture: all
+Description: Disable power management on full screen media
+ for Xfce and Mate Desktop.
