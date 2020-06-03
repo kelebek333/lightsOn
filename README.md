@@ -11,6 +11,6 @@ Optionally can delay the screensaver when specific outputs are connected.
 
 Add toggle xfce4-power-manager into presentation mode.
 
-Works on lubuntu without any additional installations screensavers
+Works on Xfce desktop without any additional installations screensavers
 
 License: GNU GPL version 2.0 or above
