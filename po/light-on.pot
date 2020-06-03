@@ -12,29 +12,29 @@ msgstr ""
 "Language: \n"
 
 msgid "Already running"
-msgstr "Zaten çalışıyor"
+msgstr ""
 
 msgid "Started"
-msgstr "Başlatıldı"
+msgstr ""
 
 msgid "Stopped"
-msgstr "Durduruldu"
+msgstr ""
 
 msgid "Not already running"
-msgstr "Zaten çalışmıyor"
+msgstr ""
 
 #: opt/lights-on/lights-on-tray.py:20
 msgid "Start"
-msgstr "Başlat"
+msgstr ""
 
 #: opt/lights-on/lights-on-tray.py:25
 msgid "Stop"
-msgstr "Durdur"
+msgstr ""
 
 #: opt/lights-on/lights-on-tray.py:29
 msgid "Exit"
-msgstr "Çıkış"
+msgstr ""
 
 #: opt/lights-on/lights-on-tray.py:33
 msgid "Stop and Exit"
-msgstr "Durdur ve Çık"
+msgstr ""
