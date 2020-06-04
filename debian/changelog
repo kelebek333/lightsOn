@@ -1,8 +1,15 @@
+lights-on (1.0.4~lmtr) bionic; urgency=medium
+
+  * Add notify icon for indicator actions
+  * Add gir1.2-appindicator3 to depends
+
+ -- Gökhan Gökkaya <wirelessanten@gmail.com>  Thu, 04 Jun 2020 05:00:17 +0300
+
 lights-on (1.0.3~lmtr) bionic; urgency=medium
 
   * Add indicator applet
 
- -- Gökhan Gökkaya <wirelessanten@gmail.com>  Mon, 01 Jun 2020 02:53:22 +0300
+ -- Gökhan Gökkaya <wirelessanten@gmail.com>  Mon, 03 Jun 2020 19:20:34 +0300
 
 lights-on (1.0.2~lmtr) bionic; urgency=medium
 
