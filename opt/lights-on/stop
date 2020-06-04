@@ -5,8 +5,8 @@ TEXTDOMAIN=lights-on
 
 if pgrep -x lightsOn.sh > /dev/null; then
 pkill lightsOn.sh
-notify-send "Lights On" $"Stopped"
+notify-send -i preferences-desktop-screensaver-symbolic "Lights On" $"Stopped"
 else
-notify-send "Lights On" $"Not already running"
+notify-send -i preferences-desktop-screensaver-symbolic "Lights On" $"Already not running"
 fi
 exit 0
