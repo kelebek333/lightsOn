@@ -7,5 +7,6 @@ Standards-Version: 3.9.5
 
 Package: lights-on
 Architecture: all
+Depends: gir1.2-appindicator3
 Description: Disable power management on full screen media
  for Xfce and Mate Desktop.
