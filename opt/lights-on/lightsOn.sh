@@ -287,10 +287,10 @@ isAppRunning()
 
     # Check if user want to detect HTML5 fullscreen on Firefox.
     if [ $firefox_html5_detection == 1 ]; then
-        if [[ "$activ_win_title" = *Firefox* || "$activ_win_title" = *Iceweasel* ]]; then
+        if [[ "$activ_win_title" = *Firefox* || "$activ_win_title" = *Iceweasel* || "$activ_win_title" = *Basilisk* || "$activ_win_title" = *"Pale moon"* ]]; then
             # Check if Firefox process is actually running.
             # firefox_process=$(pgrep -c "(firefox|/usr/bin/firefox|iceweasel|/usr/bin/iceweasel)")
-            if [ "$(pidof -s firefox-esr firefox iceweasel)" ]; then
+            if [ "$(pidof -s firefox-esr firefox iceweasel basilisk palemoon)" ]; then
                 log "isAppRunning(): firefox html5 fullscreen detected"
                 return 1
             fi
