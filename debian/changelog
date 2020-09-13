@@ -1,3 +1,9 @@
+lights-on (1.0.5~lmtr) bionic; urgency=medium
+
+  * Added Pale moon and Basilisk support
+
+ -- Gökhan Gökkaya <wirelessanten@gmail.com>  Sun, 13 Sep 2020 19:34:14 +0300
+
 lights-on (1.0.4~lmtr) bionic; urgency=medium
 
   * Add notify icon for indicator actions
